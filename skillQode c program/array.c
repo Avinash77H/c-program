@@ -1,7 +1,7 @@
 #include<stdio.h>
  int main ()
  {  int i,j,sum;
- int arr[3][3]={{1,2},{,5,6},{,7,8}};
+ int arr[3][3]={{1,1,2},{2,5,6},{2,7,8}};
  sum=0;
  for (i=0;i<3;i++)
  {
