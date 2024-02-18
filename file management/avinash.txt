@@ -1,0 +1,2 @@
+the number is :777
+thanks for using fprinf
